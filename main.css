@@ -82,4 +82,10 @@ display: inline-block
     width: 200px;
     height: 200px;
   }
+  .font-name{
+    font-size: 12px;
+  }
+  .font-name-child{
+    font-size: 10px;
+  }
  }
