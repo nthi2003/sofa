@@ -65,10 +65,8 @@ display: inline-block
   background-size: no-repeat;
   background-size: center;
  }
- .qt-butom{
-  
- }
- @media (min-width: 0px) and (max-width: 438px)
+
+ @media (min-width: 0px) and (max-width: 739px)
  {
   .qt-product{
     margin-bottom: 230px;
