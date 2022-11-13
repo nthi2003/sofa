@@ -68,3 +68,18 @@ display: inline-block
  .qt-butom{
   
  }
+ @media (min-width: 0px) and (max-width: 438px)
+ {
+  .qt-product{
+    margin-bottom: 230px;
+    height: 100px;
+  }
+  .img-about{
+    width: 200px;
+    height: 200px;
+  }
+  .img-about2{
+    width: 200px;
+    height: 200px;
+  }
+ }
