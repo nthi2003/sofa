@@ -58,32 +58,65 @@ display: inline-block
   background-size: cover;
   background-size: no-repeat;
   background-size: center;
+  object-fit: cover;
  }
  .img-about2{
   background: url(./a2.jpg);
   background-size: cover;
   background-size: no-repeat;
   background-size: center;
+  object-fit: cover;
  }
-
- @media (min-width: 0px) and (max-width: 739px)
- {
-  .qt-product{
-    margin-bottom: 230px;
-    height: 100px;
-  }
-  .img-about{
-    width: 200px;
-    height: 200px;
-  }
-  .img-about2{
-    width: 200px;
-    height: 200px;
-  }
-  .font-name{
-    font-size: 12px;
-  }
-  .font-name-child{
-    font-size: 10px;
-  }
+ .img-about3{
+  background: url(./a3.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
  }
+ 
+ .img-about4{
+  background: url(./a4.png);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ 
+ .img-about5{
+  background: url(./a5.png);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ 
+ .img-about6{
+  background: url(./a7.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .img-about7{
+  background: url(./a8.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .img-about8{
+  background: url(./a9.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .img-about9{
+  background: url(./a10.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ 
