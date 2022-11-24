@@ -119,4 +119,24 @@ display: inline-block
   background-size: center;
   object-fit: cover;
  }
- 
+ .qt-magazine-big-img{
+  background: url(./nen1.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .qt-magazine-small-img01{
+  background: url(./nen2.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .qt-magazine-small-img02{
+  background: url(./nen3.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
