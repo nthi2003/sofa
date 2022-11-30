@@ -140,3 +140,10 @@ display: inline-block
   background-size: center;
   object-fit: cover;
  }
+ .img-about10{
+  background: url(./nen.jpeg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
