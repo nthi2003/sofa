@@ -147,3 +147,24 @@ display: inline-block
   background-size: center;
   object-fit: cover;
  }
+ .img-about12{
+  background: url(./story.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .img-about13{
+  background: url(./Story2.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
+ .img-about14{
+  background: url(./Story3.jpg);
+  background-size: cover;
+  background-size: no-repeat;
+  background-size: center;
+  object-fit: cover;
+ }
